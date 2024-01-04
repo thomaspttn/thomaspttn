@@ -4,5 +4,5 @@ My name is Thomas, I'm currently a senior computer vision engineer at <a href="h
 
 Below you'll find some of the independent projects I've worked on. If anything strikes your interest, don't hesitate to [reach out](mailto:tjpatton1@gmail.com).
 
-If you're more curious about me, checkout my [personal website](thomaspttn.github.io) or my [blog](thomaspatton.substack.com).
+If you're more curious about me, checkout my [personal website](https://thomaspttn.github.io) or my [blog](https://thomaspatton.substack.com).
 
